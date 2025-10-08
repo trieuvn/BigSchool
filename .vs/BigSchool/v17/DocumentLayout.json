@@ -1,74 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Lab05\\BigSchool\\",
+  "WorkspaceRootPath": "D:\\Desktop\\Lab06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\scripts\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\viewmodels\\futuredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\viewmodels\\futuredate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\viewmodels\\validtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\viewmodels\\validtime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\viewmodels\\courseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|D:\\Lab05\\BigSchool\\bigschool\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|D:\\Lab05\\BigSchool\\bigschool\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|D:\\Lab05\\BigSchool\\bigschool\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\lab05\\bigschool\\bigschool\\migrations\\202510040659005_add-migration \u0027create table\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\migrations\\202510040659005_add-migration \u0027create table\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|D:\\Lab05\\BigSchool\\bigschool\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\migrations\\202510080725331_addnamecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\migrations\\202510080725331_addnamecolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|d:\\desktop\\lab06\\bigschool\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|D:\\Lab05\\BigSchool\\bigschool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|D:\\Lab05\\BigSchool\\bigschool\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{337905D8-BE7A-4A32-B50F-9D61D5F34F73}|BigSchool\\BigSchool.csproj|solutionrelative:bigschool\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,226 +54,170 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bootstrap.bundle.js",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Scripts\\bootstrap.bundle.js",
-              "RelativeDocumentMoniker": "BigSchool\\Scripts\\bootstrap.bundle.js",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Scripts\\bootstrap.bundle.js",
-              "RelativeToolTip": "BigSchool\\Scripts\\bootstrap.bundle.js",
-              "ViewState": "AgIAAEMPAAAAAAAAAAAUwFYPAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-04T08:24:08.628Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "BigSchool\\App_Start\\BundleConfig.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "BigSchool\\App_Start\\BundleConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T08:16:12.059Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "BigSchool\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "BigSchool\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-04T08:01:02.1Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Site.css",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Content\\Site.css",
-              "RelativeDocumentMoniker": "BigSchool\\Content\\Site.css",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Content\\Site.css",
-              "RelativeToolTip": "BigSchool\\Content\\Site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-10-04T07:59:19.952Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ValidTime.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\ViewModels\\ValidTime.cs",
-              "RelativeDocumentMoniker": "BigSchool\\ViewModels\\ValidTime.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\ViewModels\\ValidTime.cs",
-              "RelativeToolTip": "BigSchool\\ViewModels\\ValidTime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T07:44:34.954Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FutureDate.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\ViewModels\\FutureDate.cs",
-              "RelativeDocumentMoniker": "BigSchool\\ViewModels\\FutureDate.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\ViewModels\\FutureDate.cs",
-              "RelativeToolTip": "BigSchool\\ViewModels\\FutureDate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T07:41:09.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CourseViewModel.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\ViewModels\\CourseViewModel.cs",
-              "RelativeDocumentMoniker": "BigSchool\\ViewModels\\CourseViewModel.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\ViewModels\\CourseViewModel.cs",
-              "RelativeToolTip": "BigSchool\\ViewModels\\CourseViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T07:18:21.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BigSchool\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BigSchool\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAZAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "BigSchool\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "BigSchool\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-04T07:10:49.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Views\\Courses\\Create.cshtml",
-              "RelativeDocumentMoniker": "BigSchool\\Views\\Courses\\Create.cshtml",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Views\\Courses\\Create.cshtml",
-              "RelativeToolTip": "BigSchool\\Views\\Courses\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-04T07:10:22.409Z",
+              "WhenOpened": "2025-10-08T08:15:22.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CoursesController.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Controllers\\CoursesController.cs",
-              "RelativeDocumentMoniker": "BigSchool\\Controllers\\CoursesController.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Controllers\\CoursesController.cs",
-              "RelativeToolTip": "BigSchool\\Controllers\\CoursesController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwB8AAAAhAAAAAAAAAA==",
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "BigSchool\\Models\\AccountViewModels.cs",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "BigSchool\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwE0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T07:09:44.342Z",
+              "WhenOpened": "2025-10-08T08:14:24.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "BigSchool\\Models\\Course.cs",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Models\\Course.cs",
+              "RelativeToolTip": "BigSchool\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:32:13.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BigSchool\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BigSchool\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T08:06:32.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BigSchool\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BigSchool\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAADwv5kAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T08:17:27.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Site.css",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Content\\Site.css",
+              "RelativeDocumentMoniker": "BigSchool\\Content\\Site.css",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Content\\Site.css",
+              "RelativeToolTip": "BigSchool\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-08T08:22:14.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "BigSchool\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "BigSchool\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T07:35:08.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "BigSchool\\Models\\Category.cs",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Models\\Category.cs",
+              "RelativeToolTip": "BigSchool\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:40:50.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BigSchool\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BigSchool\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:27:52.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202510080725331_addNameColumn.cs",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Migrations\\202510080725331_addNameColumn.cs",
+              "RelativeDocumentMoniker": "BigSchool\\Migrations\\202510080725331_addNameColumn.cs",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Migrations\\202510080725331_addNameColumn.cs",
+              "RelativeToolTip": "BigSchool\\Migrations\\202510080725331_addNameColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:25:43.984Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\Course.cs",
-              "RelativeDocumentMoniker": "BigSchool\\Models\\Course.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\Course.cs",
-              "RelativeToolTip": "BigSchool\\Models\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:53:25.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BigSchool\\Models\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BigSchool\\Models\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:56:45.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "BigSchool\\Models\\Category.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\Category.cs",
-              "RelativeToolTip": "BigSchool\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:54:48.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "202510040659005_add-migration \u0027create table\u0027.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Migrations\\202510040659005_add-migration \u0027create table\u0027.cs",
-              "RelativeDocumentMoniker": "BigSchool\\Migrations\\202510040659005_add-migration \u0027create table\u0027.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Migrations\\202510040659005_add-migration \u0027create table\u0027.cs",
-              "RelativeToolTip": "BigSchool\\Migrations\\202510040659005_add-migration \u0027create table\u0027.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:59:14.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Web.config",
-              "RelativeDocumentMoniker": "BigSchool\\Web.config",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Web.config",
-              "RelativeToolTip": "BigSchool\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-04T06:50:17.983Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Desktop\\Lab06\\BigSchool\\Models\\ApplicationUser.cs",
               "RelativeDocumentMoniker": "BigSchool\\Models\\ApplicationUser.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Desktop\\Lab06\\BigSchool\\Models\\ApplicationUser.cs",
               "RelativeToolTip": "BigSchool\\Models\\ApplicationUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:49:58.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "D:\\Lab05\\BigSchool\\BigSchool\\Migrations\\Configuration.cs",
-              "RelativeDocumentMoniker": "BigSchool\\Migrations\\Configuration.cs",
-              "ToolTip": "D:\\Lab05\\BigSchool\\BigSchool\\Migrations\\Configuration.cs",
-              "RelativeToolTip": "BigSchool\\Migrations\\Configuration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-04T06:49:36.029Z"
+              "WhenOpened": "2025-10-08T07:23:38.704Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -179,6 +179,10 @@
     <Compile Include="Migrations\202510040659005_add-migration %27create table%27.Designer.cs">
       <DependentUpon>202510040659005_add-migration %27create table%27.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202510080725331_addNameColumn.cs" />
+    <Compile Include="Migrations\202510080725331_addNameColumn.Designer.cs">
+      <DependentUpon>202510080725331_addNameColumn.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\ApplicationDbContext.cs" />
@@ -298,6 +302,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202510040659005_add-migration %27create table%27.resx">
       <DependentUpon>202510040659005_add-migration %27create table%27.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202510080725331_addNameColumn.resx">
+      <DependentUpon>202510080725331_addNameColumn.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
